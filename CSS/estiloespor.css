@@ -1,0 +1,23 @@
+#espor{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10rem 0 0 0;
+    font-size: 2rem;
+    color: red;
+}
+
+#espor img{
+
+    width: 25rem;
+    height: 25rem;
+    border: 0.3rem solid black;
+    margin: 0 0 3rem;
+}
+
+#espor p{
+
+    margin: 2.5rem;
+}
